@@ -37,6 +37,7 @@ return [
         'fr'    => ['fr', 'fr_FR', false],
         'it'    => ['it', 'it_IT', false],
         'pt-BR' => ['pt_BR', 'pt_BR', false],
+        'ru'    => ['ru', 'ru_RU', false],
         'sv'    => ['sv', 'sv_SE', false],
     ],
 ];

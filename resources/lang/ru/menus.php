@@ -15,41 +15,41 @@ return [
 
     'backend' => [
         'access' => [
-            'title' => 'Access Management',
+            'title' => 'Права доступа',
 
             'roles' => [
-                'all' => 'All Roles',
-                'create' => 'Create Role',
-                'edit' => 'Edit Role',
-                'management' => 'Role Management',
-                'main' => 'Roles',
+                'all' => 'Все Роли',
+                'create' => 'Добавить Роль',
+                'edit' => 'Изменить Роль',
+                'management' => 'Управление Ролями',
+                'main' => 'Роли',
             ],
 
             'users' => [
-                'all' => 'All Users',
-                'change-password' => 'Change Password',
-                'create' => 'Create User',
-                'deactivated' => 'Deactivated Users',
-                'deleted' => 'Deleted Users',
-                'edit' => 'Edit User',
-                'main' => 'Users',
+                'all' => 'Все Пользователи',
+                'change-password' => 'Сменить Пароль',
+                'create' => 'Новый Пользователь',
+                'deactivated' => 'Неактивные Пользователи',
+                'deleted' => 'Удалённые Пользователи',
+                'edit' => 'Редактировать Пользователя',
+                'main' => 'Пользователи',
             ],
         ],
 
         'log-viewer' => [
-            'main' => 'Log Viewer',
-            'dashboard' => 'Dashboard',
-            'logs' => 'Logs',
+            'main' => 'Просмотр Логов',
+            'dashboard' => 'Панель Управления',
+            'logs' => 'Логи',
         ],
 
         'sidebar' => [
-            'dashboard' => 'Dashboard',
-            'general' => 'General',
+            'dashboard' => 'Панель Управления',
+            'general' => 'Системные Настройки',
         ],
     ],
 
     'language-picker' => [
-        'language' => 'Language',
+        'language' => 'Язык',
         /**
          * Add the new language to this array.
          * The key should have the same language code as the folder name.

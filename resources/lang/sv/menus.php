@@ -61,6 +61,7 @@ return [
             'da' => 'Danska (Danish)',
             'de' => 'Tyska (German)',
             'pt-BR' => 'Brasiliansk portugisiska (Brazilian Portuguese)',
+            'ru' => 'Russian',
             'en' => 'Engelska (English)',
             'fr' => 'Franska (French)',
             'it' => 'Italienska (Italian)',
